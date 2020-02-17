@@ -1,0 +1,10 @@
+symbol	pv_disease_vs_healthy	fc_disease_vs_healthy	pv_drug_vs_untreated	fc_a_vs_b	fc_drug_vs_untreated	pv_a_vs_b
+BRCA1	0.01	10	0.4	a	1	b
+BRCA2	0.02	3.3	0.0001	5	2	5
+TP53	0.03	-1.6	0.001		3	5
+EGFR	0.04	-0.06	0.01	0.0	4	9
+A1B	0.0001	1	1E-10	1.0009E+10	5	4
+F1	1.00E-10	0.05	0	1.0009E10	1	6
+F1	1.00E-06	-5	1	10	7	10
+IL1B	1	-23	1	7.8	8	99
+IL10	0.001	2	0.1	5	9	1
